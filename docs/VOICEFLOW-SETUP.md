@@ -61,7 +61,7 @@ Your FAQ agent should handle these common questions:
 1. Open your Voiceflow project
 2. Click on **Integrations** in the left sidebar
 3. Select **Web Chat Widget**
-4. Copy your **Project ID** (looks like: `6a7b8c9d0e1f2g3h4i5j6k7l`)
+4. Copy your **Project ID** (looks like: `6a7b8c9d0e1f2g3h4i6j6k7l`)
 
 ---
 
@@ -75,7 +75,7 @@ Your FAQ agent should handle these common questions:
 ```javascript
 export const VOICEFLOW_CONFIG = {
   faq: {
-    projectID: '6a7b8c9d0e1f2g3h4i5j6k7l', // Your actual project ID
+    projectID: '6a7b8c9d0e1f2g3h4i6j6k7l', // Your actual project ID
     versionID: 'production',
     title: 'FAQ Assistant',
     description: 'Ask me anything about our diagnostic program',
