@@ -19,11 +19,14 @@ A React-based web application for managing diagnostic kit requests and sample pr
 
 ## 🎯 Overview
 
-This application provides a complete workflow for diagnostic kit requests, including:
+This vibe-coded application provides a complete workflow for diagnostic kit requests, including:
 - Public landing page with information about the research program
 - User authentication and dashboard
 - Kit request management with status tracking
 - AI-powered FAQ and Step-by-Step Guide chatbots
+
+It has been my attempt at learning how to work with AI to create working software prototypes. I document my learning journey reflections in 
+[docs] folder.
 
 ---
 
@@ -212,7 +215,7 @@ The demo account includes 3 sample requests:
 ## 📁 Application Structure
 
 ```
-diagnostic-kit-app/
+ai-experiment-customer-support-agent/
 ├── src/
 │   ├── components/          # Reusable UI components
 │   │   ├── ui/             # Base UI components (Button, Card, Badge, Modal)
